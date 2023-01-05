@@ -15,12 +15,11 @@
 - 建议只包含一个延迟脚本
 
 
-### 加载
+### 加载顺序
+![img.png](imgs/img.png)
 
-![1672819126136.png](https://note.youdao.com/yws/res/108/WEBRESOURCEec4c321250261e9324fdf00468279d8c)
-
-### 执行
-![dx-20230104@2x.png](https://note.youdao.com/yws/res/122/WEBRESOURCE773bedf0d276206d45fc284b0f0ebd7b)
+### 执行顺序
+![dx-20230104@2x.png](imgs/img_1.png)
 
 ### 注意
 - 内联脚本都是同步脚本，包括动态生成的
